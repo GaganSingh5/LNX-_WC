@@ -5,4 +5,4 @@ This is a linux command-line utility wc that provides various functionalities su
 ## Usage
 
 ```bash
-./word_counter [-c|-l|-w|-m] <file_name>
+./wc [-c|-l|-w|-m] <file_name>
